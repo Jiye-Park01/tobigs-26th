@@ -1,0 +1,5 @@
+정규세션 리뷰:
+https://velog.io/@juhye0635/투빅스-5주차-정규세션-SQL-실습
+
+논문 리뷰: 
+https://velog.io/@juhye0635/투빅스-5주차-논문리뷰-Bao-Making-Learned-Query-Optimization-Practical
